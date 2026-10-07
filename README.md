@@ -6,7 +6,7 @@ An interactive Power BI dashboard for analyzing logistics operations, fleet perf
 
 The Logistics Operations Performance Dashboard is an interactive Power BI dashboard designed to provide a comprehensive view of logistics and fleet performance. It brings together key operational, financial, safety, and delivery metrics to help identify performance trends, monitor costs, and highlight areas that may require attention.
 
-The dashboard analyzes metrics across revenue, fleet activity, fuel costs, safety, and delivery performance. It is designed to give decision-makers a clearer view of operational efficiency and support data-driven decisions across the logistics operation.
+The dashboard analyzes metrics across revenue, fleet activity, fuel costs, safety, and delivery performance. It is designed to give decision makers a clearer view of operational efficiency and support data-driven decisions across the logistics operation.
 
 🎯 Business Questions
 
