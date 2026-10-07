@@ -27,14 +27,15 @@ The dashboard analyzes metrics across revenue, fleet activity, fuel costs, safet
 
 📈 Key Metrics
 
-• Metric	Value
-• Total Revenue	$263M
-• Profit	$161M
-• Fuel Cost	$96M
-• Total Miles	122M
-• Safety Incidents	170
-• Injury Incidents	33
-• On-Time Delivery	55.7%
+Key metrics:
+
+* Total Revenue: $263M — Total revenue generated from logistics operations.
+* Profit: $161M — Total profit generated after operating costs.
+* Fuel Cost: $96M — Total expenditure on fuel.
+* Total Miles: 122M — Total distance covered by the fleet.
+* Safety Incidents: 170 — Total recorded safety related incidents.
+* Injury Incidents: 33 — Total recorded incidents involving injuries.
+* On-Time Delivery: 55.7% — Percentage of deliveries completed on schedule.
 
 💡 Key Insights
 
