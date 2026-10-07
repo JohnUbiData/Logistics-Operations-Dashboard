@@ -71,6 +71,13 @@ On-Time Delivery	55.7%
 
 <img src="safety-delivery.jpeg" alt="Safety and Delivery Dashboard">
 
+## 📁 Project File
+
+The complete Power BI project file is available below:
+
+[Download the Power BI project file](./logistics-operations-project.pbix)
+
+
 🎯 Project Goal
 
 The goal of this project was to transform logistics data into an interactive analytical dashboard that makes operational performance easier to monitor, interpret, and act upon.
