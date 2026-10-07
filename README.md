@@ -71,11 +71,14 @@ On-Time Delivery	55.7%
 
 <img src="safety-delivery.jpeg" alt="Safety and Delivery Dashboard">
 
+
 ## 📁 Project File
 
 The complete Power BI project file is available below:
 
 [Download the Power BI project file](./logistics-operations-project.pbix)
+
+
 
 
 🎯 Project Goal
