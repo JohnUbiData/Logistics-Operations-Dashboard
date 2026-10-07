@@ -1,14 +1,14 @@
-🚚 Logistics Operations Performance Dashboard
+**🚚 Logistics Operations Performance Dashboard**
 
 An interactive Power BI dashboard for analyzing logistics operations, fleet performance, costs, safety, and delivery performance.
 
-📊 Project Overview
+**📊 Project Overview**
 
 The Logistics Operations Performance Dashboard is an interactive Power BI dashboard designed to provide a comprehensive view of logistics and fleet performance. It brings together key operational, financial, safety, and delivery metrics to help identify performance trends, monitor costs, and highlight areas that may require attention.
 
 The dashboard analyzes metrics across revenue, fleet activity, fuel costs, safety, and delivery performance. It is designed to give decision makers a clearer view of operational efficiency and support data-driven decisions across the logistics operation.
 
-🎯 Business Questions
+**🎯 Business Questions**
 
 * How much revenue is the logistics operation generating?
 * What is the relationship between fuel costs and overall revenue?
@@ -19,15 +19,13 @@ The dashboard analyzes metrics across revenue, fleet activity, fuel costs, safet
 * How well is the operation performing against its delivery targets?
 * What factors may be contributing to delays and operational inefficiencies?
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 
 * Power BI — Data visualization and dashboard development
 * Power Query — Data cleaning and transformation
 * DAX — Measures and KPI calculations
 
-📈 Key Metrics
-
-Key metrics:
+**📈 Key Metrics**
 
 * Total Revenue: $263M — Total revenue generated from logistics operations.
 * Profit: $161M — Total profit generated after operating costs.
@@ -37,7 +35,7 @@ Key metrics:
 * Injury Incidents: 33 — Total recorded incidents involving injuries.
 * On-Time Delivery: 55.7% — Percentage of deliveries completed on schedule.
 
-💡 Key Insights
+**💡 Key Insights**
 
 * Strong financial performance: The operation generated $263M in revenue and $161M in profit, indicating strong overall financial performance.
 * Fuel represents a significant operating cost: With $96M spent on fuel, fuel efficiency and consumption management remain important areas for cost control.
@@ -46,7 +44,7 @@ Key metrics:
 * Delivery performance has room for improvement: With an on-time delivery rate of 55.7%, only slightly more than half of deliveries were completed on schedule. This suggests an opportunity to investigate the operational factors contributing to delays.
 * Operational efficiency is closely connected: Revenue, profitability, fleet activity, operating costs, safety, and delivery performance should be monitored together to identify opportunities to improve overall logistics efficiency.
 
-📌 Recommendations
+**📌 Recommendations**
 
 * Improve fuel efficiency: Monitor fuel consumption and fuel cost per mile across vehicles to identify inefficient vehicles and opportunities to reduce fuel expenditure.
 * Optimize fleet utilization: Track vehicle utilization, mileage, and downtime to identify underutilized assets and improve fleet productivity.
@@ -55,27 +53,27 @@ Key metrics:
 * Monitor operational costs: Track fuel and maintenance costs alongside revenue and profitability to identify cost trends and support sustainable financial performance.
 * Use performance trends for continuous improvement: Establish regular monitoring of key operational KPIs to identify emerging issues early and measure the impact of improvement initiatives.
 
-📊 Dashboard Preview
+**📊 Dashboard Preview**
 
-1. Logistics Overview
+**1. Logistics Overview**
 
 Provides a high level view of overall logistics performance, giving users a quick understanding of how the operation is performing and where attention may be needed.
 
 <img src="logistics-overview.jpeg" alt="Logistics Overview Dashboard">
 
-2. Fleet Utilization
+**2. Fleet Utilization**
 
 Examines how effectively the fleet is being utilized, helping identify patterns in vehicle activity and overall fleet efficiency.
 
 <img src="fleet-utilization.jpeg" alt="Fleet Utilization Dashboard">
 
-3. Revenue, Fuel & Cost
+**3. Revenue, Fuel & Cost**
 
 Examines the financial side of the operation, helping users understand overall financial performance and evaluate how efficiently operational expenses are being managed.
 
 <img src="revenue-fuel-cost.jpeg" alt="Revenue, Fuel and Cost Dashboard">
 
-4. Safety & Delivery
+**4. Safety & Delivery**
 
 Provides a focused view of safety and delivery performance, helping identify areas of operational risk and assess how effectively delivery expectations are being met.
 
@@ -91,7 +89,7 @@ The complete Power BI project file is available below:
 
 
 
-🎯 Project Goal
+**🎯 Project Goal**
 
 The goal of this project was to transform logistics data into an interactive analytical dashboard that makes operational performance easier to monitor, interpret, and act upon.
 
