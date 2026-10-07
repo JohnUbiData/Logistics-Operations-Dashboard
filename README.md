@@ -27,14 +27,14 @@ The dashboard analyzes metrics across revenue, fleet activity, fuel costs, safet
 
 📈 Key Metrics
 
-Metric	Value
-Total Revenue	$263M
-Profit	$161M
-Fuel Cost	$96M
-Total Miles	122M
-Safety Incidents	170
-Injury Incidents	33
-On-Time Delivery	55.7%
+• Metric	Value
+• Total Revenue	$263M
+• Profit	$161M
+• Fuel Cost	$96M
+• Total Miles	122M
+• Safety Incidents	170
+• Injury Incidents	33
+• On-Time Delivery	55.7%
 
 💡 Key Insights
 
