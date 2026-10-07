@@ -27,7 +27,7 @@ The dashboard analyzes metrics including revenue, fuel costs, miles driven, flee
 
 📈 Key Metrics
 
-Metric	Value
+Metric  Value
 Total Revenue	$263M
 Fuel Cost	$96M
 Total Miles	122M
