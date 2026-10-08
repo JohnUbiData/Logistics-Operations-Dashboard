@@ -1,10 +1,10 @@
-🚚 Logistics Operations Performance Dashboard
+# 🚚 Logistics Operations Performance Dashboard
 
-End-to-End Analysis of Fleet, Revenue, Cost, Safety & Delivery Performance
+🔗 End-to-End Analysis of Fleet, Revenue, Cost, Safety & Delivery Performance
 
 <hr>
 
-**🔗 Project Overview**
+# **🔗 Project Overview**
 
 The Logistics Operations Performance Dashboard is an interactive Power BI project built to analyze logistics operations across fleet utilization, revenue, operating costs, fuel performance, safety incidents, and delivery performance.
 
@@ -15,7 +15,7 @@ The analysis transforms operational data into interactive dashboards that provid
 <img src="./IMG_9822.jpeg" alt="Logistics Operations Performance Dashboard" width="100%">
 <hr>
 
-**🔗 Business Problem**
+# **🔗 Business Problem**
 
 Logistics operations generate data across multiple areas of the business, including fleet activity, trips, fuel consumption, maintenance, revenue, safety, and deliveries.
 
@@ -32,7 +32,7 @@ This project brings these datasets together in Power BI to provide a centralized
 
 <hr>
 
-**🔗 Key Business Questions**
+# **🔗 Key Business Questions**
 
 The analysis was designed to answer questions such as:
 
@@ -50,7 +50,7 @@ The analysis was designed to answer questions such as:
 
 <hr>
 
-**🔗 📊 Dataset Overview**
+# **🔗 📊 Dataset Overview**
 <hr>
 The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations including:
 
@@ -73,7 +73,7 @@ The dataset was analyzed across multiple related tables to create a consolidated
 
 <hr>
 
-**🔗 Data Preparation & Transformation**
+# **🔗 Data Preparation & Transformation**
 
 Data preparation was performed using Power Query before building the dashboard.
 
@@ -92,7 +92,7 @@ The transformed data was then loaded into Power BI for modeling and analysis.
 
 <hr>
 
-**🔗 Data Modeling**
+# **🔗 Data Modeling**
 
 Model Components
 
@@ -116,7 +116,7 @@ The data model brings together the following operational areas:
 <img src="./Data-Model.jpeg" alt="Logistics Operations Data Model" width="100%">
 <hr>
 
-**🔗 Key Metrics**
+# **🔗 Key Metrics**
 
 * Total Revenue: $263M
 * Profit: $161M
@@ -132,13 +132,13 @@ Fuel costs represent approximately 36.5% of total revenue, making fuel one of th
 
 <hr>
 
-**🔗 Power BI Dashboard Structure**
+# **🔗 Power BI Dashboard Structure**
 
 The dashboard consists of four interconnected pages, each focused on a different aspect of logistics performance.
 
 <hr>
 
-**🔗 Page 1 — Logistics Overview**
+# **🔗 Page 1 — Logistics Overview**
 
 Purpose: Provide a detailed view of logistics performance across revenue and customers.
 
@@ -154,13 +154,13 @@ Key Insights
 
 <hr>
 
-**🔗 Page 2 — Fleet Utilization**
+# **🔗 Page 2 — Fleet Utilization**
 
 Purpose: Evaluate fleet performance by examining maintenance costs, miles per truck, and fleet miles per month.
 
 <img src="./fleet-utilization.jpeg" alt="Fleet Utilization Dashboard" width="100%">
 
-**Key Insights**
+# **Key Insights**
 
 * Volvo generated the highest revenue among truck makes, at approximately $52M.
 * 92 fleet units, representing 76.67% of the fleet, were active.
@@ -170,13 +170,13 @@ Purpose: Evaluate fleet performance by examining maintenance costs, miles per tr
 
 <hr>
 
-**🔗 Page 3 — Revenue, Fuel & Cost**
+# **🔗 Page 3 — Revenue, Fuel & Cost**
 
 Purpose: Identify operating cost, revenue, and fuel performance across the logistics operation.
 
 <img src="./revenue-fuel-cost.jpeg" alt="Revenue, Fuel and Cost Dashboard" width="100%">
 
-**Key Insights**
+# **Key Insights**
 
 * February recorded the lowest fuel cost for the month.
 * Refrigerated loads generated the highest revenue among load types.
@@ -193,7 +193,7 @@ Purpose: Identify incident rates, preventable incidents, and the impact of on-ti
 
 <img src="./safety-delivery.jpeg" alt="Safety and Delivery Dashboard" width="100%">
 
-**Key Insights**
+# **Key Insights**
 
 * Tennessee (TN) recorded the highest number of safety incidents.
 * Equipment Damage was the most common incident type by claims.
@@ -204,7 +204,7 @@ Purpose: Identify incident rates, preventable incidents, and the impact of on-ti
 
 <hr>
 
-**🔗 Key Findings**
+# **🔗 Key Findings**
 
 1. Fuel represents a significant operating cost
 
@@ -232,7 +232,7 @@ Revenue performance differs significantly by booking type, customer, truck make,
 
 <hr>
 
-**🔗 Recommendations**
+# **🔗 Recommendations**
 
 Based on the overall analysis, the following actions could help improve logistics performance:
 
@@ -245,7 +245,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 <hr>
 
-**🔗 Technologies Used**
+# **🔗 Technologies Used**
 
 * Power BI — Dashboard development and data visualization
 * Power Query — Data cleaning and transformation
@@ -254,7 +254,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 <hr>
 
-**🔗 Project File**
+# **🔗 Project File**
 
 The complete Power BI project file is available below:
 
@@ -262,7 +262,7 @@ Download the Power BI project file
 
 <hr>
 
-**🔗 Conclusion**
+# **🔗 Conclusion**
 
 The Logistics Operations Performance Dashboard demonstrates how data from multiple operational areas can be combined and analyzed to provide a comprehensive view of logistics performance.
 
@@ -272,7 +272,7 @@ By bringing these areas together in an interactive Power BI dashboard, the proje
 
 <hr>
 
-**🔗 Author**
+# **🔗 Author**
 
 John Ubi
 
