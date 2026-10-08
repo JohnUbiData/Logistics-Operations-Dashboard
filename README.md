@@ -71,7 +71,7 @@ The project is based on a Logistics Operations Schema containing multiple relate
 
 <hr>
 
-# Data Preparation & Transformation
+## Data Preparation & Transformation
 
 Data preparation was performed using Power Query before building the dashboard.
 
