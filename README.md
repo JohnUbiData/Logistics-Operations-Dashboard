@@ -276,7 +276,7 @@ John Ubi
 
 Data Analyst | Power BI | SQL | Power Query | Storytelling 
 
-# **Connect With Me**
+# Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/john-ubi-858911292
 Email: ubijohn001@gmail.com
