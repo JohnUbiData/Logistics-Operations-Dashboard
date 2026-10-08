@@ -15,7 +15,7 @@ The analysis transforms operational data into interactive dashboards that provid
 <img src="./IMG_9822.jpeg" alt="Logistics Operations Performance Dashboard" width="100%">
 <hr>
 
-# **Business Problem**
+# Business Problem
 
 Logistics operations generate data across multiple areas of the business, including fleet activity, trips, fuel consumption, maintenance, revenue, safety, and deliveries.
 
@@ -32,7 +32,7 @@ This project brings these datasets together in Power BI to provide a centralized
 
 <hr>
 
-# **Key Business Questions**
+# Key Business Questions
 
 The analysis was designed to answer questions such as:
 
@@ -50,7 +50,7 @@ The analysis was designed to answer questions such as:
 
 <hr>
 
-# **📊 Dataset Overview**
+# 📊 Dataset Overview
 
 The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations, including:
 
@@ -90,7 +90,7 @@ The transformed data was then loaded into Power BI for modeling and analysis.
 
 <hr>
 
-## **Data Modeling**
+## Data Modeling
 
 Model Components
 
@@ -114,7 +114,7 @@ The data model brings together the following operational areas:
 <img src="./Data-Model.jpeg" alt="Logistics Operations Data Model" width="100%">
 <hr>
 
-# **Key Metrics**
+## Key Metrics
 
 * Total Revenue: $263M
 * Profit: $161M
