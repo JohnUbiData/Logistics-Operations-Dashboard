@@ -130,7 +130,7 @@ Fuel costs represent approximately 36.5% of total revenue, making fuel one of th
 
 <hr>
 
-# **Power BI Dashboard Structure**
+# **📈 Power BI Dashboard Structure**
 
 The dashboard consists of four interconnected pages, each focused on a different aspect of logistics performance.
 
