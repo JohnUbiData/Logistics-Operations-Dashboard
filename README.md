@@ -52,7 +52,7 @@ The analysis was designed to answer questions such as:
 
 # **📊 Dataset Overview**
 <hr>
-The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations including:
+The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations, including:
 
 * Customers
 * Delivery Events
@@ -68,8 +68,6 @@ The project is based on a Logistics Operations Schema containing multiple relate
 * Trips
 * Truck Utilization
 * Trucks
-
-The dataset was analyzed across multiple related tables to create a consolidated view of logistics performance.
 
 <hr>
 
