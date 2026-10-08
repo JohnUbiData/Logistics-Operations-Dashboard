@@ -51,26 +51,23 @@ The analysis was designed to answer questions such as:
 <hr>
 
 **🔗 Dataset Overview**
+<hr>
+The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations including:
 
-The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations.
-
-Main Tables
-
-Table	Description
-* Customer	Customer information and customer-related activity
-* Delivery Events	Delivery and delivery-status information
-* Driver Monthly Metrics	Monthly performance metrics for drivers
-* Drivers	Driver information
-* Facilities	Logistics facilities and locations
-* Fuel Purchases	Fuel purchase and fuel cost records
-* Loads	Load and shipment information
-* Maintenance Records	Vehicle maintenance activities and costs
-* Routes	Route and location information
-* Safety Incidents	Safety incident records and classifications
-* Trailers	Trailer information
-* Trips	Trip and transportation records
-* Truck Utilization	Fleet utilization and mileage information
-* Trucks	Truck information and attributes
+* Customers
+* Delivery Events
+* Driver Monthly Metrics	
+* Drivers
+* Facilities
+* Fuel Purchases
+* Loads
+* Maintenance Records
+* Routes
+* Safety Incidents
+* Trailers
+* Trips
+* Truck Utilization
+* Trucks
 
 The dataset was analyzed across multiple related tables to create a consolidated view of logistics performance.
 
