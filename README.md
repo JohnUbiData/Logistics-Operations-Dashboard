@@ -4,7 +4,7 @@ End-to-End Analysis of Fleet, Revenue, Cost, Safety & Delivery Performance
 
 <hr>
 
-📌 Project Overview
+🔗 Project Overview
 
 The Logistics Operations Performance Dashboard is an interactive Power BI project built to analyze logistics operations across fleet utilization, revenue, operating costs, fuel performance, safety incidents, and delivery performance.
 
@@ -15,7 +15,7 @@ The analysis transforms operational data into interactive dashboards that provid
 <img src="./IMG_9822.jpeg" alt="Logistics Operations Performance Dashboard" width="100%">
 <hr>
 
-🎯 Business Problem
+🔗 Business Problem
 
 Logistics operations generate data across multiple areas of the business, including fleet activity, trips, fuel consumption, maintenance, revenue, safety, and deliveries.
 
@@ -32,7 +32,7 @@ This project brings these datasets together in Power BI to provide a centralized
 
 <hr>
 
-❓ Key Business Questions
+🔗 Key Business Questions
 
 The analysis was designed to answer questions such as:
 
@@ -50,7 +50,7 @@ The analysis was designed to answer questions such as:
 
 <hr>
 
-📊 Dataset Overview
+🔗 Dataset Overview
 
 The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations.
 
@@ -76,7 +76,7 @@ The dataset was analyzed across multiple related tables to create a consolidated
 
 <hr>
 
-🧹 Data Preparation & Transformation
+🔗 Data Preparation & Transformation
 
 Data preparation was performed using Power Query before building the dashboard.
 
@@ -95,7 +95,7 @@ The transformed data was then loaded into Power BI for modeling and analysis.
 
 <hr>
 
-🧩 Data Modeling
+🔗 Data Modeling
 
 Model Components
 
@@ -119,24 +119,23 @@ The data model brings together the following operational areas:
 <img src="./YOUR-MODEL-IMAGE.jpeg" alt="Logistics Operations Data Model" width="100%">
 <hr>
 
-📏 Key Metrics
+🔗 Key Metrics
 
-Metric	Result
-Total Revenue	$263M
-Profit	$161M
-Fuel Cost	$96M
-Maintenance Cost	$5.73M
-Total Miles	122M
-Fuel Cost Per Mile	$0.80
-Safety Incidents	170
-Injury Incidents	33
-On-Time Delivery	55.7%
+* Total Revenue: $263M
+* Profit: $161M
+* Fuel Cost: $96M
+* Maintenance Cost: $5.73M
+* Total Miles: 122M
+* Fuel Cost Per Mile: $0.80
+* Safety Incidents: 170
+* Injury Incidents: 33
+* On-Time Delivery: 55.7%
 
 Fuel costs represent approximately 36.5% of total revenue, making fuel one of the most significant operating cost areas in the logistics operation.
 
 <hr>
 
-📈 Power BI Dashboard Structure
+🔗 Power BI Dashboard Structure
 
 The dashboard consists of four interconnected pages, each focused on a different aspect of logistics performance.
 
@@ -208,7 +207,7 @@ Key Insights
 
 <hr>
 
-💡 Key Findings
+🔗 Key Findings
 
 1. Fuel represents a significant operating cost
 
@@ -236,7 +235,7 @@ Revenue performance differs significantly by booking type, customer, truck make,
 
 <hr>
 
-🎯 Recommendations
+🔗 Recommendations
 
 Based on the overall analysis, the following actions could help improve logistics performance:
 
@@ -249,7 +248,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 <hr>
 
-🛠️ Technologies Used
+🔗 Technologies Used
 
 * Power BI — Dashboard development and data visualization
 * Power Query — Data cleaning and transformation
@@ -258,7 +257,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 <hr>
 
-📁 Project File
+🔗 Project File
 
 The complete Power BI project file is available below:
 
@@ -266,7 +265,7 @@ Download the Power BI project file
 
 <hr>
 
-📝 Conclusion
+🔗 Conclusion
 
 The Logistics Operations Performance Dashboard demonstrates how data from multiple operational areas can be combined and analyzed to provide a comprehensive view of logistics performance.
 
@@ -276,11 +275,11 @@ By bringing these areas together in an interactive Power BI dashboard, the proje
 
 <hr>
 
-👤 Author
+🔗 Author
 
 John Ubi
 
-Data Analyst | Power BI | SQL | Power Query
+Data Analyst | Power BI | SQL | Power Query | Storytelling 
 
 Connect With Me
 
