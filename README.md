@@ -82,7 +82,7 @@ Data preparation was performed using Power Query before building the dashboard.
 * Renamed columns for consistency and readability
 * Standardized text values and categories
 
-Data Transformation
+## Data Transformation
 
 Additional calculated columns were created where required to support the analysis and dashboard visualizations.
 
