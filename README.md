@@ -136,7 +136,7 @@ The dashboard consists of four interconnected pages, each focused on a different
 
 <hr>
 
-# **Page 1 — Logistics Overview**
+## Page 1 — Logistics Overview
 
 Purpose: Provide a detailed view of logistics performance across revenue and customers.
 
@@ -152,7 +152,7 @@ Key Insights
 
 <hr>
 
-# **Page 2 — Fleet Utilization**
+## Page 2 — Fleet Utilization
 
 Purpose: Evaluate fleet performance by examining maintenance costs, miles per truck, and fleet miles per month.
 
@@ -168,7 +168,7 @@ Key Insights
 
 <hr>
 
-# **Page 3 — Revenue, Fuel & Cost**
+## Page 3 — Revenue, Fuel & Cost
 
 Purpose: Identify operating cost, revenue, and fuel performance across the logistics operation.
 
@@ -185,7 +185,7 @@ Key Insights
 
 <hr>
 
-# **Page 4 — Safety & Delivery**
+## Page 4 — Safety & Delivery
 
 Purpose: Identify incident rates, preventable incidents, and the impact of on-time delivery on logistics efficiency.
 
@@ -202,7 +202,7 @@ Key Insights
 
 <hr>
 
-# **Key Findings**
+## Key Findings
 
 1. Fuel represents a significant operating cost
 
@@ -230,7 +230,7 @@ Revenue performance differs significantly by booking type, customer, truck make,
 
 <hr>
 
-# **Recommendations**
+## Recommendations
 
 Based on the overall analysis, the following actions could help improve logistics performance:
 
@@ -243,7 +243,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 <hr>
 
-# **Technologies Used**
+## Technologies Used
 
 * Power BI — Dashboard development and data visualization
 * Power Query — Data cleaning and transformation
@@ -252,7 +252,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 <hr>
 
-# **Project File**
+## Project File
 
 The complete Power BI project file is available below:
 
@@ -260,7 +260,7 @@ The complete Power BI project file is available below:
 
 <hr>
 
-# **Conclusion**
+## Conclusion
 
 The Logistics Operations Performance Dashboard demonstrates how data from multiple operational areas can be combined and analyzed to provide a comprehensive view of logistics performance.
 
