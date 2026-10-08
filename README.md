@@ -83,8 +83,6 @@ Data preparation was performed using Power Query before building the dashboard.
 
 Data Cleaning
 
-The following preparation steps were carried out:
-
 * Removed duplicate records
 * Changed columns to appropriate data types
 * Renamed columns for consistency and readability
@@ -148,7 +146,7 @@ The dashboard consists of four interconnected pages, each focused on a different
 
 🔗 Page 1 — Logistics Overview
 
-Provide a detailed view of logistics performance across revenue and customers.
+Purpose: Provide a detailed view of logistics performance across revenue and customers.
 
 <img src="./logistics-overview.jpeg" alt="Logistics Overview Dashboard" width="100%">
 
@@ -164,7 +162,7 @@ Key Insights
 
 🔗 Page 2 — Fleet Utilization
 
-Evaluate fleet performance by examining maintenance costs, miles per truck, and fleet miles per month.
+Purpose: Evaluate fleet performance by examining maintenance costs, miles per truck, and fleet miles per month.
 
 <img src="./fleet-utilization.jpeg" alt="Fleet Utilization Dashboard" width="100%">
 
@@ -180,7 +178,7 @@ Key Insights
 
 🔗 Page 3 — Revenue, Fuel & Cost
 
-Identify operating cost, revenue, and fuel performance across the logistics operation.
+Purpose: Identify operating cost, revenue, and fuel performance across the logistics operation.
 
 <img src="./revenue-fuel-cost.jpeg" alt="Revenue, Fuel and Cost Dashboard" width="100%">
 
@@ -197,7 +195,7 @@ Key Insights
 
 🔗 Page 4 — Safety & Delivery
 
-Identify incident rates, preventable incidents, and the impact of on-time delivery on logistics efficiency.
+Purpose: Identify incident rates, preventable incidents, and the impact of on-time delivery on logistics efficiency.
 
 <img src="./safety-delivery.jpeg" alt="Safety and Delivery Dashboard" width="100%">
 
@@ -290,3 +288,5 @@ Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/john-ubi-858911292
 Email: ubijohn001@gmail.com
+
+⸻
