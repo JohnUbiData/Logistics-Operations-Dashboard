@@ -4,7 +4,7 @@
 
 <hr>
 
-# **Project Overview**
+## Project Overview
 
 The Logistics Operations Performance Dashboard is an interactive Power BI project built to analyze logistics operations across fleet utilization, revenue, operating costs, fuel performance, safety incidents, and delivery performance.
 
@@ -15,7 +15,7 @@ The analysis transforms operational data into interactive dashboards that provid
 <img src="./IMG_9822.jpeg" alt="Logistics Operations Performance Dashboard" width="100%">
 <hr>
 
-# Business Problem
+## Business Problem
 
 Logistics operations generate data across multiple areas of the business, including fleet activity, trips, fuel consumption, maintenance, revenue, safety, and deliveries.
 
@@ -32,7 +32,7 @@ This project brings these datasets together in Power BI to provide a centralized
 
 <hr>
 
-# Key Business Questions
+## Key Business Questions
 
 The analysis was designed to answer questions such as:
 
@@ -50,7 +50,7 @@ The analysis was designed to answer questions such as:
 
 <hr>
 
-# 📊 Dataset Overview
+## 📊 Dataset Overview
 
 The project is based on a Logistics Operations Schema containing multiple related tables covering different areas of logistics operations, including:
 
@@ -71,7 +71,7 @@ The project is based on a Logistics Operations Schema containing multiple relate
 
 <hr>
 
-# **Data Preparation & Transformation**
+# Data Preparation & Transformation
 
 Data preparation was performed using Power Query before building the dashboard.
 
