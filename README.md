@@ -2,7 +2,7 @@
 
 End-to-End Analysis of Fleet, Revenue, Cost, Safety & Delivery Performance
 
-⸻
+<hr>
 
 📌 Project Overview
 
@@ -13,8 +13,7 @@ The project uses a multi-table Logistics Operations Schema containing operationa
 The analysis transforms operational data into interactive dashboards that provide a detailed view of logistics performance and highlight areas that can support better operational and cost-management decisions.
 
 <img src="./IMG_9822.jpeg" alt="Logistics Operations Performance Dashboard" width="100%">
-
-⸻
+<hr>
 
 🎯 Business Problem
 
@@ -31,7 +30,7 @@ This project brings these datasets together in Power BI to provide a centralized
 * Delivery performance
 * Customer and booking performance
 
-⸻
+<hr>
 
 ❓ Key Business Questions
 
@@ -49,7 +48,7 @@ The analysis was designed to answer questions such as:
 * How is on-time delivery performing over time?
 * Where are there opportunities to improve operational efficiency and cost management?
 
-⸻
+<hr>
 
 📊 Dataset Overview
 
@@ -75,7 +74,7 @@ Trucks	Truck information and attributes
 
 The dataset was analyzed across multiple related tables to create a consolidated view of logistics performance.
 
-⸻
+<hr>
 
 🧹 Data Preparation & Transformation
 
@@ -94,7 +93,7 @@ Additional calculated columns were created where required to support the analysi
 
 The transformed data was then loaded into Power BI for modeling and analysis.
 
-⸻
+<hr>
 
 🧩 Data Modeling
 
@@ -118,8 +117,7 @@ The data model brings together the following operational areas:
 * Trucks
 
 <img src="./YOUR-MODEL-IMAGE.jpeg" alt="Logistics Operations Data Model" width="100%">
-
-⸻
+<hr>
 
 📏 Key Metrics
 
@@ -136,13 +134,13 @@ On-Time Delivery	55.7%
 
 Fuel costs represent approximately 36.5% of total revenue, making fuel one of the most significant operating cost areas in the logistics operation.
 
-⸻
+<hr>
 
 📈 Power BI Dashboard Structure
 
 The dashboard consists of four interconnected pages, each focused on a different aspect of logistics performance.
 
-⸻
+<hr>
 
 🔗 Page 1 — Logistics Overview
 
@@ -158,7 +156,7 @@ Key Insights
 * First Group was the highest-revenue customer among the top five customers, generating $9.1M.
 * January recorded the highest trip count with approximately 7.3K trips.
 
-⸻
+<hr>
 
 🔗 Page 2 — Fleet Utilization
 
@@ -174,7 +172,7 @@ Key Insights
 * February recorded approximately 9.20M downtime fleet miles.
 * TRK0055 recorded the highest miles per truck.
 
-⸻
+<hr>
 
 🔗 Page 3 — Revenue, Fuel & Cost
 
@@ -191,7 +189,7 @@ Key Insights
 * Fuel cost per mile was approximately $0.80.
 * Total maintenance cost reached $5.73M.
 
-⸻
+<hr>
 
 🔗 Page 4 — Safety & Delivery
 
@@ -208,7 +206,7 @@ Key Insights
 * The on-time delivery trend shows that more than half of deliveries arrived late each month.
 * DOT Violations recorded 39 safety incidents.
 
-⸻
+<hr>
 
 💡 Key Findings
 
@@ -236,7 +234,7 @@ Tennessee recorded the highest number of safety incidents, while Equipment Damag
 
 Revenue performance differs significantly by booking type, customer, truck make, and load type. Dedicated bookings, First Group, Volvo, and refrigerated loads were among the strongest revenue contributors identified in the analysis.
 
-⸻
+<hr>
 
 🎯 Recommendations
 
@@ -249,7 +247,7 @@ Based on the overall analysis, the following actions could help improve logistic
 * Optimize maintenance planning: Continue monitoring preventive maintenance, repair, and tire-related costs to reduce avoidable downtime and maintenance expenses.
 * Support revenue growth: Identify and build on the factors contributing to strong performance across high-revenue customers, booking types, truck makes, and load types.
 
-⸻
+<hr>
 
 🛠️ Technologies Used
 
@@ -258,7 +256,7 @@ Based on the overall analysis, the following actions could help improve logistic
 * DAX — Measures and analytical calculations
 * Data Modeling — Relationships across multiple logistics tables
 
-⸻
+<hr>
 
 📁 Project File
 
@@ -266,7 +264,7 @@ The complete Power BI project file is available below:
 
 Download the Power BI project file
 
-⸻
+<hr>
 
 📝 Conclusion
 
@@ -276,7 +274,7 @@ The analysis highlights key areas including revenue generation, fleet utilizatio
 
 By bringing these areas together in an interactive Power BI dashboard, the project provides a data-driven foundation for identifying operational inefficiencies, monitoring performance, and supporting better logistics decision-making.
 
-⸻
+<hr>
 
 👤 Author
 
@@ -289,4 +287,4 @@ Connect With Me
 LinkedIn: https://www.linkedin.com/in/john-ubi-858911292
 Email: ubijohn001@gmail.com
 
-⸻
+<hr>
