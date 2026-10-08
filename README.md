@@ -160,7 +160,7 @@ Purpose: Evaluate fleet performance by examining maintenance costs, miles per tr
 
 <img src="./fleet-utilization.jpeg" alt="Fleet Utilization Dashboard" width="100%">
 
-# **Key Insights**
+Key Insights
 
 * Volvo generated the highest revenue among truck makes, at approximately $52M.
 * 92 fleet units, representing 76.67% of the fleet, were active.
@@ -176,7 +176,7 @@ Purpose: Identify operating cost, revenue, and fuel performance across the logis
 
 <img src="./revenue-fuel-cost.jpeg" alt="Revenue, Fuel and Cost Dashboard" width="100%">
 
-# **Key Insights**
+Key Insights
 
 * February recorded the lowest fuel cost for the month.
 * Refrigerated loads generated the highest revenue among load types.
@@ -193,7 +193,7 @@ Purpose: Identify incident rates, preventable incidents, and the impact of on-ti
 
 <img src="./safety-delivery.jpeg" alt="Safety and Delivery Dashboard" width="100%">
 
-# **Key Insights**
+Key Insights
 
 * Tennessee (TN) recorded the highest number of safety incidents.
 * Equipment Damage was the most common incident type by claims.
