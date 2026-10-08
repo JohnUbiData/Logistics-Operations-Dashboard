@@ -12,7 +12,7 @@ The project uses a multi-table Logistics Operations Schema containing operationa
 
 The analysis transforms operational data into interactive dashboards that provide a detailed view of logistics performance and highlight areas that can support better operational and cost-management decisions.
 
-<img src="./IMG_9822.jpeg" alt="Logistics Operations Dashboard" width="100%">
+<img src="./IMG_9822.jpeg" alt="Logistics Operations Performance Dashboard" width="100%">
 
 ⸻
 
