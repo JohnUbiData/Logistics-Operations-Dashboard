@@ -113,7 +113,7 @@ The data model brings together the following operational areas:
 * Truck Utilization
 * Trucks
 
-<img src="./YOUR-MODEL-IMAGE.jpeg" alt="Logistics Operations Data Model" width="100%">
+<img src="./Data-Model.jpeg" alt="Logistics Operations Data Model" width="100%">
 <hr>
 
 **🔗 Key Metrics**
