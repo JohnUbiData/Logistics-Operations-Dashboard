@@ -147,7 +147,7 @@ Key Insights
 * February recorded the lowest monthly revenue at $20.2M.
 * January, March, and October each recorded $22.4M in revenue.
 * Dedicated booking type generated the highest revenue among booking types.
-* First Group was the highest-revenue customer among the top five customers, generating $9.1M.
+* First Group was the highest revenue customer among the top five customers, generating $9.1M.
 * January recorded the highest trip count with approximately 7.3K trips.
 
 <hr>
@@ -162,7 +162,7 @@ Key Insights
 
 * Volvo generated the highest revenue among truck makes, at approximately $52M.
 * 92 fleet units, representing 76.67% of the fleet, were active.
-* Preventive maintenance recorded the highest maintenance cost at approximately $0.96M, followed by repair and tire-related maintenance.
+* Preventive maintenance recorded the highest maintenance cost at approximately $0.96M, followed by repair and tire related maintenance.
 * February recorded approximately 9.20M downtime fleet miles.
 * TRK0055 recorded the highest miles per truck.
 
@@ -206,11 +206,11 @@ Key Insights
 
 1. Fuel represents a significant operating cost
 
-Fuel costs totaled $96M, approximately 36.5% of total revenue. This highlights fuel efficiency and fuel-cost management as important areas for operational improvement.
+Fuel costs totaled $96M, approximately 36.5% of total revenue. This highlights fuel efficiency and fuel cost management as important areas for operational improvement.
 
 2. Delivery performance requires attention
 
-The overall on-time delivery rate was 55.7%, while the monthly trend showed that more than half of deliveries arrived late each month. This indicates a consistent delivery-performance challenge rather than an isolated issue.
+The overall on-time delivery rate was 55.7%, while the monthly trend showed that more than half of deliveries arrived late each month. This indicates a consistent delivery performance challenge rather than an isolated issue.
 
 3. Fleet activity is not fully utilized
 
@@ -218,11 +218,11 @@ Although 92 fleet units (76.67%) were active, the dashboard also identified sign
 
 4. Maintenance costs are concentrated in preventive maintenance
 
-Preventive maintenance represented the largest maintenance cost category at approximately $0.96M, followed by repair and tire-related maintenance.
+Preventive maintenance represented the largest maintenance cost category at approximately $0.96M, followed by repair and tire related maintenance.
 
 5. Safety incidents are concentrated in specific areas
 
-Tennessee recorded the highest number of safety incidents, while Equipment Damage was the most common incident type. This provides an opportunity to investigate location-specific and equipment-related safety risks.
+Tennessee recorded the highest number of safety incidents, while Equipment Damage was the most common incident type. This provides an opportunity to investigate location specific and equipment related safety risks.
 
 6. Revenue performance varies across operational dimensions
 
@@ -238,7 +238,7 @@ Based on the overall analysis, the following actions could help improve logistic
 * Reduce fleet downtime: Investigate the causes of downtime and identify opportunities to improve fleet utilization and maintenance planning.
 * Improve delivery performance: Analyze the causes of recurring late deliveries and monitor performance by route, facility, and customer.
 * Strengthen safety management: Investigate locations and incident types with higher safety occurrences, particularly equipment damage and DOT violations.
-* Optimize maintenance planning: Continue monitoring preventive maintenance, repair, and tire-related costs to reduce avoidable downtime and maintenance expenses.
+* Optimize maintenance planning: Continue monitoring preventive maintenance, repair, and tire related costs to reduce avoidable downtime and maintenance expenses.
 * Support revenue growth: Identify and build on the factors contributing to strong performance across high-revenue customers, booking types, truck makes, and load types.
 
 <hr>
@@ -266,7 +266,7 @@ The Logistics Operations Performance Dashboard demonstrates how data from multip
 
 The analysis highlights key areas including revenue generation, fleet utilization, fuel and maintenance costs, safety incidents, and delivery performance.
 
-By bringing these areas together in an interactive Power BI dashboard, the project provides a data-driven foundation for identifying operational inefficiencies, monitoring performance, and supporting better logistics decision-making.
+By bringing these areas together in an interactive Power BI dashboard, the project provides a data driven foundation for identifying operational inefficiencies, monitoring performance, and supporting better logistics decision making.
 
 <hr>
 
