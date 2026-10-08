@@ -90,7 +90,7 @@ The transformed data was then loaded into Power BI for modeling and analysis.
 
 <hr>
 
-# **Data Modeling**
+## **Data Modeling**
 
 Model Components
 
