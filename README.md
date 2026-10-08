@@ -258,7 +258,7 @@ Based on the overall analysis, the following actions could help improve logistic
 
 The complete Power BI project file is available below:
 
-Download the Power BI project file
+[Download the Power BI project file](./logistics-operations-project.pbix)
 
 <hr>
 
