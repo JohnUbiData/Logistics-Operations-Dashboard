@@ -75,7 +75,7 @@ The project is based on a Logistics Operations Schema containing multiple relate
 
 Data preparation was performed using Power Query before building the dashboard.
 
-Data Cleaning
+## Data Cleaning
 
 * Removed duplicate records
 * Changed columns to appropriate data types
