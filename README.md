@@ -1,6 +1,6 @@
 # 🚚 Logistics Operations Performance Dashboard
 
-🔗 End-to-End Analysis of Fleet, Revenue, Cost, Safety & Delivery Performance
+## End-to-End Analysis of Fleet, Revenue, Cost, Safety & Delivery Performance
 
 <hr>
 
