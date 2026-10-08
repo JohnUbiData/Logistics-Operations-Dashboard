@@ -77,7 +77,7 @@ Data preparation was performed using Power Query before building the dashboard.
 
 ## Data Cleaning
 
-* Removed duplicate records
+* Removed inconsistencies and duplicates
 * Changed columns to appropriate data types
 * Renamed columns for consistency and readability
 * Standardized text values and categories
